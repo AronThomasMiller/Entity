@@ -1,0 +1,11 @@
+C:\Users\AronThomasMiller\source\repos\EntityTasks\EntityTasks\bin\Debug\netcoreapp2.1\EntityTasks.deps.json
+C:\Users\AronThomasMiller\source\repos\EntityTasks\EntityTasks\bin\Debug\netcoreapp2.1\EntityTasks.runtimeconfig.json
+C:\Users\AronThomasMiller\source\repos\EntityTasks\EntityTasks\bin\Debug\netcoreapp2.1\EntityTasks.runtimeconfig.dev.json
+C:\Users\AronThomasMiller\source\repos\EntityTasks\EntityTasks\bin\Debug\netcoreapp2.1\EntityTasks.dll
+C:\Users\AronThomasMiller\source\repos\EntityTasks\EntityTasks\obj\Debug\netcoreapp2.1\EntityTasks.csprojAssemblyReference.cache
+C:\Users\AronThomasMiller\source\repos\EntityTasks\EntityTasks\obj\Debug\netcoreapp2.1\EntityTasks.csproj.CoreCompileInputs.cache
+C:\Users\AronThomasMiller\source\repos\EntityTasks\EntityTasks\obj\Debug\netcoreapp2.1\EntityTasks.AssemblyInfoInputs.cache
+C:\Users\AronThomasMiller\source\repos\EntityTasks\EntityTasks\obj\Debug\netcoreapp2.1\EntityTasks.AssemblyInfo.cs
+C:\Users\AronThomasMiller\source\repos\EntityTasks\EntityTasks\bin\Debug\netcoreapp2.1\EntityTasks.pdb
+C:\Users\AronThomasMiller\source\repos\EntityTasks\EntityTasks\obj\Debug\netcoreapp2.1\EntityTasks.dll
+C:\Users\AronThomasMiller\source\repos\EntityTasks\EntityTasks\obj\Debug\netcoreapp2.1\EntityTasks.pdb
